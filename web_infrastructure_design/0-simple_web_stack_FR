@@ -47,4 +47,4 @@ La configuration à serveur unique a une capacité limitée pour gérer une augm
 
 ## Solution que je préconise :
 
-Des serveurs supplémentaires avec du load balancing pour gérer des volumes de trafic plus élevés sans perte de performance en plus d'une sécurité en cas de panne ou de mise a jour des serveurs pour assuré une continuité de services.
+Des serveurs supplémentaires avec du load balancing pour gérer des volumes de trafic plus élevés sans perte de performance en plus d'une sécurité en cas de panne ou de mise à jour des serveurs pour assurer une continuité de services.
